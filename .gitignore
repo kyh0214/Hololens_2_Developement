@@ -3,8 +3,9 @@
 # =============== #
 [Tt]emp/
 [Oo]bj/
-[Bb]uild
+build/
 [Ll]ibrary/
+
 App/
 sysinfo.txt
 *.stackdump
