@@ -1,0 +1,53 @@
+<linker>
+	<assembly fullname="Microsoft.MixedReality.Toolkit">
+		<type fullname="Microsoft.MixedReality.Toolkit.Utilities.ExperienceScale" preserve="nothing" serialized="true"/>
+		<type fullname="Microsoft.MixedReality.Toolkit.CameraSystem.MixedRealityCameraSettingsConfiguration" preserve="nothing" serialized="true"/>
+		<type fullname="Microsoft.MixedReality.Toolkit.Utilities.SystemType" preserve="nothing" serialized="true"/>
+		<type fullname="Microsoft.MixedReality.Toolkit.Input.MixedRealityInputDataProviderConfiguration" preserve="nothing" serialized="true"/>
+		<type fullname="Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialObserverConfiguration" preserve="nothing" serialized="true"/>
+		<type fullname="Microsoft.MixedReality.Toolkit.Input.MixedRealityInputAction" preserve="nothing" serialized="true"/>
+		<type fullname="Microsoft.MixedReality.Toolkit.Input.PointerOption" preserve="nothing" serialized="true"/>
+		<type fullname="Microsoft.MixedReality.Toolkit.Input.MixedRealityGestureMapping" preserve="nothing" serialized="true"/>
+		<type fullname="Microsoft.MixedReality.Toolkit.Input.SpeechCommands" preserve="nothing" serialized="true"/>
+		<type fullname="Microsoft.MixedReality.Toolkit.Input.MixedRealityControllerMapping" preserve="nothing" serialized="true"/>
+		<type fullname="Microsoft.MixedReality.Toolkit.Input.MixedRealityInteractionMapping" preserve="nothing" serialized="true"/>
+		<type fullname="Microsoft.MixedReality.Toolkit.Input.MixedRealityControllerVisualizationSetting" preserve="nothing" serialized="true"/>
+		<type fullname="Microsoft.MixedReality.Toolkit.Input.AnimatedCursorStateData" preserve="nothing" serialized="true"/>
+		<type fullname="Microsoft.MixedReality.Toolkit.Utilities.AnimatorParameter" preserve="nothing" serialized="true"/>
+		<type fullname="Microsoft.MixedReality.Toolkit.Input.AnimatedCursorContextData" preserve="nothing" serialized="true"/>
+		<type fullname="Microsoft.MixedReality.Toolkit.Utilities.BezierDataProvider/BezierPointSet" preserve="nothing" serialized="true"/>
+		<type fullname="Microsoft.MixedReality.Toolkit.Utilities.MixedRealityPose" preserve="nothing" serialized="true"/>
+		<type fullname="Microsoft.MixedReality.Toolkit.Utilities.ProximityLight/LightSettings" preserve="nothing" serialized="true"/>
+		<type fullname="Microsoft.MixedReality.Toolkit.Physics.GazeStabilizer" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Microsoft.MixedReality.Toolkit.Services.InputSimulation">
+		<type fullname="Microsoft.MixedReality.Toolkit.Input.KeyBinding" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Microsoft.MixedReality.Toolkit.SDK">
+		<type fullname="Microsoft.MixedReality.Toolkit.UI.ManipulationEvent" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule">
+		<type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.TextCoreModule">
+		<type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Unity.TextMeshPro">
+		<type fullname="TMPro.TMP_SpriteCharacter" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_SpriteGlyph" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_Sprite" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_Style" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.KerningTable" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true"/>
+	</assembly>
+</linker>
