@@ -22,3 +22,4 @@ If you want to know how to use above code go to FindPathP.cs file
 
 Futhermore, If you wanna see that path during hololens application running, go to SeeDebug.cs file
 
+I'll make another clear repos soon
